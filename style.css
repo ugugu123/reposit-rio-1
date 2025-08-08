@@ -1,0 +1,17 @@
+body{
+     background-color: #001BB7;
+}
+h1{
+    color:aqua;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color:azure;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    margin-left: 660px;
+    width: 60%;
+}
